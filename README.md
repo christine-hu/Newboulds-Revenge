@@ -14,5 +14,5 @@ After installing the JDK, download and unzip the ZIP file for this repository. T
 
 ## Gameplay
 
-Progress through the opening animations by clicking anywhere on the screen. Use the arrow keys to move and the spacebar to shoot. The game consists of three progressively harder "waves" and a boss level. 
+Progress through the opening animations by clicking anywhere on the screen. Once the game begins, use the arrow keys to move and the spacebar to shoot. The game consists of three progressively harder "waves" and a boss level. 
 
