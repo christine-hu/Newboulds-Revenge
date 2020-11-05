@@ -1,5 +1,5 @@
 # Newbould's Revenge
-Newbould's Revenge tells the tale of Brandon Newbould, a legendary trombonist, Alaskan, and coach at Phillips Exeter Academy. Help Newbould avenge his trombone's death in this thrilling single-player game! 
+Newbould's Revenge tells the tale of Brandon Newbould, a legendary trombonist, Alaskan, and coach at Phillips Exeter Academy. Help Newbould avenge his trombone's death in this thrilling single-player game.
 
 ## Setting Up
 
